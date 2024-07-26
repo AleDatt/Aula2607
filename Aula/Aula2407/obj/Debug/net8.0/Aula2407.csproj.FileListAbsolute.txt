@@ -223,3 +223,4 @@ C:\Users\alexandre.dattilio\source\repos\Aula\Aula2407\obj\Debug\net8.0\refint\A
 C:\Users\alexandre.dattilio\source\repos\Aula\Aula2407\obj\Debug\net8.0\Aula2407.pdb
 C:\Users\alexandre.dattilio\source\repos\Aula\Aula2407\obj\Debug\net8.0\Aula2407.genruntimeconfig.cache
 C:\Users\alexandre.dattilio\source\repos\Aula\Aula2407\obj\Debug\net8.0\ref\Aula2407.dll
+C:\Users\alexandre.dattilio\source\repos\Aula\Aula2407\obj\Debug\net8.0\Aula2407.sourcelink.json

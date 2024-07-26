@@ -2,54 +2,91 @@
     ViewData["Title"] = "Index";
 
 }
-
+@* Codigo formulario cadastro cliente *@
 <div class="container">
-    <div class=" row ">
+    @* LINHA TITULO *@
+    <div class="row">
         <div class="col text-center">
-            <h1> Cadastro Cliente </h1>
+            <h1>Cadastro Cliente</h1>
         </div>
     </div>
-    @* Linha Nome e Cpf *@
-    <div class="row">
+    @* LINHA NOME, CPF,RF E DN *@
+    <div class="row ">
         <div class="col">
-
-            <label for="" class="col-sm-2 form-label fw-bold">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
                 Nome
             </label>
-            <input type="text" class="form-control" id="">
-
-
+            <input type="text" class="form-control" id="" />
         </div>
-
         <div class="col-lg-3">
-
-            <label for="" class="form-label fw-bold">
+            <label for="" class="col-form-label fw-bold">
                 CPF
             </label>
             <input type="text" class="form-control" id="">
-
-
         </div>
-
-        <div class="col-lg-3">
-
-            <label for="" class="form-label fw-bold">
+        <div class="col-lg-2">
+            <label for="" class="col-form-label fw-bold">
                 RG
             </label>
             <input type="text" class="form-control" id="">
-
-
         </div>
-
         <div class="col-lg-2">
-
-            <label for="" class="form-label fw-bold text-nowrap">
+            <label for="" class="col-form-label fw-bold text-nowrap">
                 Data Nascimento
             </label>
             <input type="text" class="form-control" id="">
-
-
         </div>
     </div>
-</div>
+    @* LINHA ENDEREÇO *@
+    <div class="row">
+        <div class="col-sm-2">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
+                CEP
+            </label>
+            <input type="text" class="form-control" id="" />
+        </div>
+        <div class="col-sm-2">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
+                UF
+            </label>
+            <input type="text" class="form-control" id="" />
+        </div>
+        <div class="col-sm-3">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
+                Cidade
+            </label>
+            <input type="text" class="form-control" id="" />
+        </div>
+        <div class="col-sm-2">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
+                Bairro
+            </label>
+            <input type="text" class="form-control" id="" />
+        </div>
+        <div class="col-sm-2">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
+                Rua
+            </label>
+            <input type="text" class="form-control" id="" />
+        </div>
+        <div class="col-sm-1">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
+                Numero
+            </label>
+            <input type="text" class="form-control" id="" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <label for="" class="col-sm-2 col-form-label fw-bold">
+                Complemento
+            </label>
+            <input type="text" class="form-control" id="" />
+        </div>
+    </div>
+    <div class="row mt-3 justify-content-md-end">
+        <div class="col-3 align-content-end ">
+            <input type="submit" class="btn btn-outline-info btn-lg bg-black" name="name" value="Cadastrar" />
+        </div>
+    </div>
 </div>

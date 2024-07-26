@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Aula2407\\Views\\Cliente\\CadastroCliente.cshtml",
               "ToolTip": "C:\\Users\\alexandre.dattilio\\source\\repos\\Aula\\Aula2407\\Views\\Cliente\\CadastroCliente.cshtml",
               "RelativeToolTip": "Aula2407\\Views\\Cliente\\CadastroCliente.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAdAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-26T17:44:09.459Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Aula2407\\Controllers\\ClienteController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T17:17:13.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T17:17:13.462Z"
             }
           ]
         }
