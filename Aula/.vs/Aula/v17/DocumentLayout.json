@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexandre.dattilio\\source\\repos\\Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C71EA49-7DE2-419F-B67C-490705558793}|Aula2407\\Aula2407.csproj|c:\\users\\alexandre.dattilio\\source\\repos\\aula\\aula2407\\views\\cliente\\cadastrocliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C71EA49-7DE2-419F-B67C-490705558793}|Aula2407\\Aula2407.csproj|solutionrelative:aula2407\\views\\cliente\\cadastrocliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C71EA49-7DE2-419F-B67C-490705558793}|Aula2407\\Aula2407.csproj|c:\\users\\alexandre.dattilio\\source\\repos\\aula\\aula2407\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C71EA49-7DE2-419F-B67C-490705558793}|Aula2407\\Aula2407.csproj|solutionrelative:aula2407\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexandre.dattilio\\source\\repos\\Aula\\Aula2407\\Views\\Cliente\\CadastroCliente.cshtml",
+              "RelativeDocumentMoniker": "Aula2407\\Views\\Cliente\\CadastroCliente.cshtml",
+              "ToolTip": "C:\\Users\\alexandre.dattilio\\source\\repos\\Aula\\Aula2407\\Views\\Cliente\\CadastroCliente.cshtml",
+              "RelativeToolTip": "Aula2407\\Views\\Cliente\\CadastroCliente.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T17:44:09.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\alexandre.dattilio\\source\\repos\\Aula\\Aula2407\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Aula2407\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\alexandre.dattilio\\source\\repos\\Aula\\Aula2407\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Aula2407\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:17:13.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
